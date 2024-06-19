@@ -38,7 +38,7 @@ body {
   text-align: left;
 }
 
-.header__links-list-item_no-bullet {
+.header__links-list-item--no-bullet {
   list-style-type: none;
   margin-left: 0;
 }
